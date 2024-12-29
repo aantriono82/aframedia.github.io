@@ -9,7 +9,7 @@ My name is Aan Triono. I have the following qualities:
 - Friendly and affectionate
 - I really love my family
 
-What else do you need?
+What else do you need more?
 
 ## My story
 
