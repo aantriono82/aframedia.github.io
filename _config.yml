@@ -52,12 +52,12 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  #facebook: deanattali
+  github: aframedia
+  #twitter: daattali
+  #patreon: DeanAttali
+  #youtube: "@daattali"
+  whatsapp: 082376636929
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -70,7 +70,7 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: yourname
+  telegram: @aantriono
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
@@ -100,7 +100,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "aantriono.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
